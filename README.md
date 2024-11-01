@@ -1,5 +1,5 @@
 
-# Enhanced Blockly App
+# Enhanced LYFEblock
 
 This is a web-based visual programming application using Google's Blockly library. It allows users to create programs using a drag-and-drop interface with blocks that represent different programming concepts.
 
